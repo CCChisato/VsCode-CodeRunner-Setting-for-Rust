@@ -16,9 +16,12 @@ Allows for interactive input/output, debugging, and better visibility of program
 Ensures that any unsaved changes are saved before execution starts.
 
 ⚙️ 配置内容 | Configuration Details:
+![first](https://github.com/user-attachments/assets/41d50bdb-6f9f-4fc7-bedc-8aa0b4010834)
 
-![Screenshot 2025-06-14 111044](https://github.com/user-attachments/assets/800022b1-2d24-4b47-8dc5-13f79b600617)
-![Screenshot 2025-06-14 111255](https://github.com/user-attachments/assets/b0939fde-a953-4e0c-a3a9-91b75d45f2ce)
+
+
+![second](https://github.com/user-attachments/assets/46275589-403d-4880-a1b0-d4718c9967e1)
+
 
 """Add this"""
 
@@ -31,8 +34,9 @@ Ensures that any unsaved changes are saved before execution starts.
 }
 
 """like this:"""
-![Screenshot 2025-06-14 111841](https://github.com/user-attachments/assets/f9883fd0-cf61-4c80-909b-d67909f893a4)
+![Screenshot 2025-06-14 111841](https://github.com/user-attachments/assets/0f052c79-09dd-4ee9-96f3-c2a79e4faead)
 
-![Screenshot 2025-06-14 111850](https://github.com/user-attachments/assets/2c375418-4120-4c3c-a471-402752192a9e)
+![Screenshot 2025-06-14 111850](https://github.com/user-attachments/assets/d7bbf15d-d8f1-496e-bc58-2251282add06)
+
 
 📌 Enjoy coding Rust smoothly in VSCode!
